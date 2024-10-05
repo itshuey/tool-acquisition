@@ -5,9 +5,11 @@ Improving Tool Acquisition in Large Language Models
 [![Hugging Face Transformers](https://img.shields.io/badge/%F0%9F%A4%97-Transformers-blue)](https://github.com/huggingface/transformers)
 
 
-Supporting material for the thesis "Thinking Forwards, Backwards, and in Code: Improving Tool Acquisition in Large Language Models"
+Supporting material for the [thesis](thesis.pdf) "Thinking Forwards, Backwards, and in Code: Improving Tool Acquisition in Large Language Models"
 
 Authors: **Huey Sun** 
+
+![Model Performance](figure.png)
 
 ## Repository Structure 
 
